@@ -1,0 +1,4 @@
+2025-03-03 09:30:21.688 [info] Started local extension host with pid 3890.
+2025-03-03 09:30:21.716 [info] Started initializing default profile extensions in extensions installation folder. file:///home/crystal/.vscode-oss/extensions
+2025-03-03 09:30:21.868 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/crystal/.vscode-oss/extensions
+2025-03-03 09:30:24.634 [info] [perf] Render performance baseline is 32ms

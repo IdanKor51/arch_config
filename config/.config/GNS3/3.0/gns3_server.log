@@ -1,0 +1,33 @@
+2025-02-15 20:07:43 WARNING config.py:250 No configuration file could be found or read
+2025-02-15 20:07:43 INFO server.py:234 GNS3 server version 3.0.3
+2025-02-15 20:07:43 INFO server.py:236 Copyright (c) 2007-2025 GNS3 Technologies Inc.
+2025-02-15 20:07:43 WARNING server.py:247 Compute authentication is enabled with username 'gns3' and a randomly generated password. Please set a password in the config file if this compute is to be used by an external controller
+2025-02-15 20:07:43 INFO server.py:257 Running with Python 3.13.1 and has PID 73531
+2025-02-15 20:07:43 INFO server.py:87 Current locale is en_US.UTF-8
+2025-02-15 20:07:43 INFO server.py:275 Using system certificate store for SSL connections
+2025-02-15 20:07:44 INFO server.py:288 Starting server on 0.0.0.0:3080
+2025-02-15 20:07:45 INFO server.py:83 Started server process [73531]
+2025-02-15 20:07:45 INFO on.py:48 Waiting for application startup.
+2025-02-15 20:07:45 INFO migration.py:216 Context impl SQLiteImpl.
+2025-02-15 20:07:45 INFO migration.py:219 Will assume non-transactional DDL.
+2025-02-15 20:07:45 INFO tasks.py:88 Current database revision is None
+2025-02-15 20:07:45 INFO migration.py:216 Context impl SQLiteImpl.
+2025-02-15 20:07:45 INFO migration.py:219 Will assume non-transactional DDL.
+2025-02-15 20:07:45 INFO migration.py:622 Running stamp_revision  -> 9a5292aa4389
+2025-02-15 20:07:45 INFO __init__.py:71 Loading controller vars file "/home/crystal/.config/GNS3/3.0/gns3_controller.vars"
+2025-02-15 20:07:45 INFO __init__.py:75 Controller is starting
+2025-02-15 20:07:45 INFO __init__.py:354 Installing base configs in '/home/crystal/GNS3/configs'
+2025-02-15 20:07:45 INFO __init__.py:368 Installing built-in disks in '/home/crystal/GNS3/images/QEMU'
+2025-02-15 20:07:45 INFO __init__.py:272 IOU license check is disabled on the controller
+2025-02-15 20:07:45 INFO __init__.py:277 Comparing controller version 3.0.3 with config version 3.0.3
+2025-02-15 20:07:45 INFO __init__.py:285 Built-in appliances are installed in '/home/crystal/.local/share/GNS3/appliances'
+2025-02-15 20:07:45 INFO compute.py:74 Create compute local
+2025-02-15 20:07:45 INFO on.py:62 Application startup complete.
+2025-02-15 20:07:45 INFO server.py:215 Uvicorn running on http://0.0.0.0:3080 (Press CTRL+C to quit)
+2025-02-15 20:07:46 INFO server.py:263 Shutting down
+2025-02-15 20:07:46 INFO on.py:67 Waiting for application shutdown.
+2025-02-15 20:07:46 INFO __init__.py:180 Controller is stopping
+2025-02-15 20:07:46 INFO tasks.py:106 Disconnected from database
+2025-02-15 20:07:46 INFO on.py:76 Application shutdown complete.
+2025-02-15 20:07:46 INFO server.py:93 Finished server process [73531]
+2025-02-15 20:07:46 INFO server.py:329 Remove PID file /home/crystal/.config/GNS3/3.0/gns3_server.pid

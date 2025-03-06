@@ -1,0 +1,5 @@
+2025-02-15 20:07:42 INFO logger.py:126 Log level: INFO
+2025-02-15 20:07:42 INFO main.py:270 GNS3 GUI version 3.0.3
+2025-02-15 20:07:42 INFO main.py:271 Copyright (c) 2007-2025 GNS3 Technologies Inc.
+2025-02-15 20:07:42 INFO main.py:272 Application started with /usr/bin/gns3
+2025-02-15 20:07:46 INFO main.py:301 Signal received exiting the application
